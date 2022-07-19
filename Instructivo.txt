@@ -1,0 +1,5 @@
+Crear carpeta "procesar"
+Depositar archivos en "procesar"
+Crear archivo "fecha.txt" con fecha con formato "31/05/22 20:30:00"
+Solo se aceptan archivos .csv
+
